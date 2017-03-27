@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "isidoro",
+    "password": "aaaaaaaa",
+    "database": "church",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "isidoro",
+    "password": null,
+    "database": "church_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "isidoro",
+    "password": null,
+    "database": "church_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
