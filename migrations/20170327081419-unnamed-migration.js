@@ -12,7 +12,7 @@ module.exports = {
       id: Sequelize.INTEGER,
       group: Sequelize.INTEGER,
       name: Sequelize.STRING,
-      spirtual_name: Sequelize.STRING,
+      spiritual_name: Sequelize.STRING,
       birthday: Sequelize.DATE,
       telephone: Sequelize.STRING,
       postcode: Sequelize.STRING,
