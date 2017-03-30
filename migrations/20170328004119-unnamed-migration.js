@@ -5,7 +5,7 @@ module.exports = {
     //(table, attribute name, attribute definition)
     return queryInterface.addColumn('users', 'pronounce', {
       type: Sequelize.STRING,
-      after: 'spiritual_name'
+      after: 'name'
     });
   },
 
